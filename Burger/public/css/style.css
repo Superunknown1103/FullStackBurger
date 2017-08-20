@@ -4,18 +4,17 @@
   height: 130px;
   margin-bottom: 5px;
   padding: 6px;
-  background-color: black;
+  background-color: white;
   color: white;
   position: relative;
   z-index: -100;
 }
-
+/*
 .container-fluid {
   background-color: #1F1860 !important;
-}
+}*/
 
 .burger{
-  background-color:#4F351B;
   color:white; margin-bottom: 0px;
   position: relative;
   bottom: 55px;
